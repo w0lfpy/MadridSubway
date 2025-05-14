@@ -74,7 +74,7 @@ pip install streamlit pandas streamlit_folium
 Desde la raíz del proyecto, ejecuta:
 
 ```sh
-streamlit run app.py
+python3 -m streamlit run app.py
 ```
 
 Esto abrirá la interfaz web en tu navegador, donde podrás:
